@@ -37,11 +37,17 @@ nav {
 }
 
 .greeting img {
-  width: 50px;
+  width: 30px;
 }
 
 .social-links a {
   margin-right: 1rem;
+}
+
+.social-links img {
+  width: 30px; /* Adjust as needed */
+  height: 30px; /* Adjust as needed */
+  cursor: pointer;
 }
 
 .about-me {
