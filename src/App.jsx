@@ -12,7 +12,6 @@ import Footer from './components/Footer';
 function App() {
 	return (
     <div>
-	<h1>Hello Atlas</h1>
 	<Header />
 	<Section title="What is React?">
 	<p>
